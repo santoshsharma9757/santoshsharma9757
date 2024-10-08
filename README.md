@@ -1,5 +1,5 @@
 <a href="https://rishavchanda.io">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxbZ7fqaufem3-J24z-PmA9pQFtUprilI0fQ&s" alt="MasterHead" style="width:80%; max-height:200px; object-fit:cover;"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxbZ7fqaufem3-J24z-PmA9pQFtUprilI0fQ&s" alt="MasterHead" style="width:100%; max-height:200px; object-fit:cover;"/>
 </a>
 
 <h1 align="center">Hi 👋, I'm Santosh Sharma</h1>
