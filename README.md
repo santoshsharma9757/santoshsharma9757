@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Santosh Sharma</h1>
 <h3 align="center">Skilled Flutter developer with 2.5 years of experience in building robust, cross-platform applications. Demonstrated ability to deliver exceptional user experiences through clean code, expert state management, and UI/UX optimization. Proven track record in leveraging Flutter’s capabilities to create seamless and high-performance mobile apps.</h3>
-<img align="right" alt="Coding" width="400" src="">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?q=animated%20software%20engineer%20coding%20gif&imgurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F81%2F17%2F8b%2F81178b47a8598f0c81c4799f2cdd4057.gif&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fpinterest--311381761734186207%2F&docid=HAR_qp5qQB282M&tbnid=QCZULViz1nWbzM&vet=12ahUKEwj_3dG8o_6IAxXoXWwGHdoxD-0QM3oECE8QAA..i&w=800&h=600&hcb=2&ved=2ahUKEwj_3dG8o_6IAxXoXWwGHdoxD-0QM3oECE8QAA">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santoshsharma9757&label=Profile%20views&color=0e75b6&style=flat" alt="santoshsharma9757" /> </p>
 
