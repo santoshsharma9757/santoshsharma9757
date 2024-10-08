@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Python, Django**
 
-- 💬 Ask me about **Flutter • Dart programming • Architectural Patterns (MVVM, MVC) • State Management (Provider, BLoC) • RESTful APIs Integration • Firebase (Push notification) • Git, GitHub, GitLab • UI/UX Design Principles • Local Database (Hive, SQLite) • Widget and UI design • WebSocket integration • Android/iOS Development • Live streaming using RTMP • Responsive Design, Adaptive UI • Cross-Platform Development • Third-Party Libraries & SDKs • Version Control and Code Management • Testing and debugging • Python • Python (Django Rest Framework) • Android Studio • Vs code**
+- 💬 Ask me about **Flutter • Dart programming**
 
 - 📫 How to reach me **santoshsharma9757@gmail.com**
 
