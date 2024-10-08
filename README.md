@@ -3,7 +3,7 @@
 </a>
 
 <h1 align="center">Hi 👋, I'm Santosh Sharma</h1>
-<h3 align="center">Skilled Flutter developer with 2.5 years of experience in building robust, cross-platform applications. Demonstrated ability to deliver exceptional user experiences through clean code, expert state management, and UI/UX optimization. Proven track record in leveraging Flutter’s capabilities to create seamless and high-performance mobile apps.</h3>
+<h3 align="center">Skilled Flutter developer with 2.5 years of experience</h3>
 <p align="left"> <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santoshsharma9757&label=Profile%20views&color=0e75b6&style=flat" alt="santoshsharma9757" /> </p>
