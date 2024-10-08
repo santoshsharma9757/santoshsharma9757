@@ -1,6 +1,7 @@
 <a href="https://rishavchanda.io">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6c54n3NbWu2QPczpnh3Fhh8cySOFQbfcymA&s" alt="MasterHead" style="width:100%; height:300px;"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxbZ7fqaufem3-J24z-PmA9pQFtUprilI0fQ&s" alt="MasterHead" style="width:100%; max-height:300px; object-fit:cover;"/>
 </a>
+
 <h1 align="center">Hi 👋, I'm Santosh Sharma</h1>
 <h3 align="center">Skilled Flutter developer with 2.5 years of experience in building robust, cross-platform applications. Demonstrated ability to deliver exceptional user experiences through clean code, expert state management, and UI/UX optimization. Proven track record in leveraging Flutter’s capabilities to create seamless and high-performance mobile apps.</h3>
 <p align="left"> <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"> </p>
