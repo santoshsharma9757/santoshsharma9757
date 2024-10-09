@@ -1,6 +1,5 @@
-<a href="https://rishavchanda.io">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxbZ7fqaufem3-J24z-PmA9pQFtUprilI0fQ&s" alt="MasterHead" style="width:100%; max-height:100px; object-fit:cover;"/>
-</a>
+
+![santoshsharmaflutterdeveloper](https://github.com/user-attachments/assets/f80c1c5a-cbb5-4af8-a2ad-a0017049bee3)
 
 <h1 align="center">Hi 👋, I'm Santosh Sharma</h1>
 <h3 align="center">Skilled Flutter developer with 2.5 years of experience</h3>
